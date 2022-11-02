@@ -13,7 +13,7 @@ Pour apprendre la librairy GSAP, je me suis aider de la documentation ainsi que 
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/baptiste-bussiere/Portfolio/portfolio/public/computer.png?token=GHSAT0AAAAAABYVFJ33N5YEL7CVRZL4GE2UY3DAQAQ)
-![App Screenshot](https://raw.githubusercontent.com/baptiste-bussiere/VueJS-Initiation/master/screen/signup.png)
+![App Screenshot](https://raw.githubusercontent.com/baptiste-bussiere/Portfolio/portfolio/public/ipad.png?token=GHSAT0AAAAAABYVFJ33V7BBLIYBZYYXW5NCY3DAQTA)
 
 
 ## Language utilisé
